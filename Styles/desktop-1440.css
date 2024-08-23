@@ -1,0 +1,13 @@
+    .main-container{
+        width: 700px;
+        display: flex;
+        margin-top: 170px;
+    }
+    section{
+        height: 400px;
+
+    } 
+    .second{
+        border-radius: 30px;
+    }
+
